@@ -2,6 +2,7 @@
 - Basic HTML
   * Introduction
   * Hello World
+  * Code Editor
 - Basic CSS
 - CSS Layouting
 - CSS3

@@ -1,14 +1,14 @@
-Learning Git And Github
-Basic HTML
-Basic CSS
-CSS Layouting
-CSS3
-CSS Framework
-Flexbox
-CSS Grid
-SASS
-Basic Javascript
-Javascript and DOM
-Advanced javascript
-REST API
-WEB Developer
+- Learning Git And Github
+- Basic HTML
+- Basic CSS
+- CSS Layouting
+- CSS3
+- CSS Framework
+- Flexbox
+- CSS Grid
+- SASS
+- Basic Javascript
+- Javascript and DOM
+- Advanced javascript
+- REST API
+- WEB Developer

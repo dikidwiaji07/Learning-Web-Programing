@@ -1,6 +1,7 @@
 - Learning Git And Github
 - Basic HTML
   * Introduction
+  * Code Editor
 - Basic CSS
 - CSS Layouting
 - CSS3
